@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on ...my portfolio - https://saurav-gohill.netlify.app/ 
 - 🌱 I’m currently learning ... fullstack with java
 - 🤔 I’m looking for help with ... my projects😊
-- 💬 Ask me about any thing related ..
+- 💬 Ask me about any thing related .
 - 📫 How to reach me: ... sauravgohill45@gmail.com
 
 
